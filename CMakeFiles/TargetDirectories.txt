@@ -1,0 +1,4 @@
+/home/ann/lab5/CMakeFiles/edit_cache.dir
+/home/ann/lab5/CMakeFiles/rebuild_cache.dir
+/home/ann/lab5/CMakeFiles/Todo.dir
+/home/ann/lab5/CMakeFiles/lab5.dir
